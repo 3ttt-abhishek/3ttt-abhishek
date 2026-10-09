@@ -121,10 +121,10 @@ I believe in learning by doing, staying curious, and improving with every projec
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/Code-Pankaj-dev">
+  <a href="https://github.com/3ttt-abhishek">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkdin.com/in/code-abhishek">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
