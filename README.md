@@ -13,15 +13,15 @@ Building practical web applications and continuously learning to become a better
 <br><br>
 
 <a href="https://github.com/3ttt-abhishek">
-  <img src="https://img.shields.io/badge/GitHub-View_Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 &nbsp;
 <a href="https://hemocampus.onrender.com/">
-  <img src="https://img.shields.io/badge/Explore-HemoCampus-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore HemoCampus" />
+  <img src="https://img.shields.io/badge/Live-HemoCampus-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HemoCampus Live Website" />
 </a>
 &nbsp;
 <a href="https://travelease-es8z.onrender.com/">
-  <img src="https://img.shields.io/badge/Explore-TravelEase-536DFE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore TravelEase" />
+  <img src="https://img.shields.io/badge/Live-TravelEase-536DFE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TravelEase Live Website" />
 </a>
 
 <br><br>
@@ -68,7 +68,7 @@ I'm a Diploma student in Computer Science Engineering with a strong interest in 
 
 ## 🚀 Featured Projects
 
-### 🩸 HemoCampus — Blood Bank Management System
+### 🩸 1. HemoCampus — Blood Bank Management System
 
 A Django-based web application designed to manage blood donation activities through a centralized platform connecting administrators, hospitals, and blood donors.
 
@@ -78,13 +78,13 @@ A Django-based web application designed to manage blood donation activities thro
 - 🏥 Hospital and donor management
 - 🩸 Blood stock management
 - 📋 Blood request management
-- 📊 Organized administrative dashboard
+- 📊 Administrative dashboard
 - 🗄️ Database integration using SQLite
 
 <div align="center">
 
 <a href="https://hemocampus.onrender.com/">
-  <img src="https://img.shields.io/badge/↗_Visit_Live_Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit HemoCampus Website" />
+  <img src="https://img.shields.io/badge/↗_Visit_Live_Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit HemoCampus Live Website" />
 </a>
 &nbsp;
 <a href="https://github.com/Code-Pankaj-dev/HemoCampus">
@@ -95,7 +95,7 @@ A Django-based web application designed to manage blood donation activities thro
 
 ---
 
-### 🧳 TravelEase — Travel Web Project
+### 🧳 2. TravelEase — Travel Web Project
 
 A travel-focused web application developed to provide users with an organized and user-friendly browsing experience.
 
@@ -105,7 +105,7 @@ A travel-focused web application developed to provide users with an organized an
 - 🌍 Travel-focused web interface
 - 🎨 Structured frontend design
 - 📱 Focus on usability and responsive layouts
-- 💻 Practical experience in web development
+- 💻 Practical web development experience
 
 <div align="center">
 
@@ -141,7 +141,7 @@ I believe in learning by doing, staying curious, and improving with every projec
 <div align="center">
 
 <a href="https://github.com/3ttt-abhishek">
-  <img src="https://img.shields.io/badge/GitHub-Connect-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/code-abhishek">
