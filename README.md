@@ -72,6 +72,21 @@ I'm a Full Stack Developer with a Diploma in Computer Science & Engineering. I e
 
 ---
 
+## ⏰ My Work Stats & Coding Time
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3ttt-abhishek&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B9CFF&ring=8B9CFF&fire=FF6B6B&currStreakLabel=8B9CFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=3ttt-abhishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3ttt-abhishek&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=8B9CFF&line=8B9CFF&point=FFFFFF" width="100%" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🩸 HemoCampus — Blood Bank Management System
