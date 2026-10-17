@@ -1,34 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:312E81&height=180&section=header&text=Abhishek%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=ASPIRING%20WEB%20DEVELOPER&descSize=17&descAlignY=68&animation=fadeIn" width="100%" alt="Abhishek Kumar - Developer Banner" />
+# Hi, I'm Abhishek Kumar 👋
+
+### Aspiring Web Developer | Python & Django Enthusiast
+
+Building practical web applications, solving problems, and learning something new with every project.
 
 <br>
 
-### Building Ideas Into Web Applications ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=8B9CFF&center=true&vCenter=true&width=600&lines=Python+%7C+Django+Developer;Frontend+%26+Backend+Web+Development;Learning+by+Building+Projects;Turning+Ideas+Into+Reality" alt="Developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8B9CFF&center=true&vCenter=true&width=550&lines=Python+%7C+Django+Developer;Frontend+%26+Backend+Development;Learning+by+Building+Projects" alt="Typing introduction" />
 
 <br><br>
 
 <a href="https://github.com/3ttt-abhishek">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-171923?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-My%20Profile-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 &nbsp;
 <a href="https://hemocampus.onrender.com/">
-  <img src="https://img.shields.io/badge/Explore-HemoCampus-176B52?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Explore HemoCampus" />
+  <img src="https://img.shields.io/badge/Explore-HemoCampus-176B52?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HemoCampus Live Website" />
 </a>
 &nbsp;
 <a href="https://travelease-es8z.onrender.com/">
-  <img src="https://img.shields.io/badge/Discover-TravelEase-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Discover TravelEase" />
+  <img src="https://img.shields.io/badge/Explore-TravelEase-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TravelEase Live Website" />
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Focused%20On-Web%20Development-1E293B?style=flat-square&logo=code&logoColor=93C5FD" alt="Web Development" />
-&nbsp;
-<img src="https://img.shields.io/badge/Backend-Python%20%26%20Django-1E293B?style=flat-square&logo=python&logoColor=93C5FD" alt="Python and Django" />
-&nbsp;
-<img src="https://img.shields.io/badge/Mindset-Always%20Learning-1E293B?style=flat-square&logo=bookstack&logoColor=A5B4FC" alt="Always Learning" />
 
 </div>
 
@@ -36,39 +30,39 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Abhishek Kumar**, a Diploma student in Computer Science Engineering with a strong interest in web development.
+I'm a Diploma student in Computer Science Engineering with a strong interest in web development and software engineering.
 
-I enjoy creating practical web applications, exploring new technologies, and improving my development skills through hands-on projects.
+I enjoy turning ideas into practical applications, exploring new technologies, and improving my skills through hands-on projects.
 
 - 🎓 Diploma in Computer Science Engineering
-- 💻 Interested in frontend and backend development
+- 💻 Interested in frontend and backend web development
 - 🐍 Learning Python and Django
-- 🩸 Developed **HemoCampus**, a Blood Bank Management System
-- 🧳 Built **TravelEase**, a travel-related web project
-- 🌱 Focused on writing cleaner code and solving problems
-- 🎯 Aspiring to become a professional software developer
+- 🩸 Developed **HemoCampus — Blood Bank Management System**
+- 🧳 Built **TravelEase — Travel Web Project**
+- 🌱 Improving my coding and problem-solving skills
+- 🎯 Working towards becoming a professional software developer
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Frontend
+**Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
-
-<br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python and Django" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
 
 <br>
 
-### Database & Tools
+**Backend Development**
 
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode&theme=dark" alt="SQLite, Git, GitHub and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python Django" />
+
+<br>
+
+**Database & Development Tools**
+
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode&theme=dark" alt="SQLite Git GitHub VS Code" />
 
 </div>
 
@@ -76,16 +70,11 @@ I enjoy creating practical web applications, exploring new technologies, and imp
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🩸 HemoCampus
-**Blood Bank Management System**
+### 🩸 HemoCampus — Blood Bank Management System
 
 A Django-based web application designed to organize blood donation activities through a centralized platform for administrators, hospitals, and donors.
 
-</div>
-
-**Technology Stack**
+**Tech Stack**
 
 `Python` `Django` `HTML` `CSS` `JavaScript` `SQLite`
 
@@ -94,43 +83,40 @@ A Django-based web application designed to organize blood donation activities th
 - 🩸 Blood stock management
 - 📋 Blood request management
 - 📊 Administrative dashboard
-- 🗄️ Database integration with SQLite
+- 🗄️ Database integration using SQLite
 
 <div align="center">
 
 <a href="https://hemocampus.onrender.com/">
-  <img src="https://img.shields.io/badge/↗%20OPEN%20LIVE%20WEBSITE-176B52?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open HemoCampus Live Website" />
+  <img src="https://img.shields.io/badge/↗%20Visit%20Live%20Website-176B52?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit HemoCampus Live Website" />
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://github.com/Code-Pankaj-dev/HemoCampus">
-  <img src="https://img.shields.io/badge/⌘%20EXPLORE%20SOURCE%20CODE-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore HemoCampus Source Code" />
+  <img src="https://img.shields.io/badge/⌘%20View%20Source%20Code-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View HemoCampus Source Code" />
 </a>
 
-<br><br>
+</div>
 
 ---
 
-### 🧳 TravelEase
-**Travel & Tourism Web Project**
+### 🧳 TravelEase — Travel Web Project
 
 A travel-focused web project designed to provide users with an organized and user-friendly browsing experience.
 
-**Technology Stack**
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
 **Project Highlights**
 - 🌍 Travel-focused web interface
-- 🎨 Structured frontend design
+- 🎨 Organized frontend design
 - 📱 Focus on usability and responsive layouts
-- 💻 Practical frontend development experience
+- 💻 Practical web development experience
 
-<br>
+<div align="center">
 
 <a href="https://travelease-es8z.onrender.com/">
-  <img src="https://img.shields.io/badge/↗%20EXPLORE%20TRAVELEASE-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore TravelEase Live Website" />
+  <img src="https://img.shields.io/badge/↗%20Explore%20TravelEase-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore TravelEase Live Website" />
 </a>
 
 </div>
@@ -139,17 +125,12 @@ A travel-focused web project designed to provide users with an organized and use
 
 ## 📚 Currently Learning
 
-<div align="center">
-
-| Area | Focus |
-|:---|:---|
-| 🌐 Frontend | Responsive layouts and accessible interfaces |
-| 🐍 Backend | Python and Django development |
-| 🗄️ Database | Data management and database integration |
-| 🔧 Tools | Git and GitHub workflows |
-| 🚀 Deployment | Publishing and maintaining web applications |
-
-</div>
+- Responsive and accessible web interfaces
+- Backend development with Python and Django
+- Database management and application architecture
+- Git and GitHub version control
+- Clean and maintainable code
+- Web application deployment
 
 ---
 
@@ -161,30 +142,20 @@ I believe in **learning by doing, staying curious, and improving with every proj
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-I'm always interested in learning, building projects, and connecting with fellow developers.
-
-<br>
-
 <a href="https://github.com/3ttt-abhishek">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-Connect-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 &nbsp;
-
 <a href="https://linkedin.com/in/code-abhishek">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:172554,100:0B1020&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Thanks for visiting" />
-
-<br>
-
-**Learning. Building. Improving. 🚀**
+*Thanks for visiting my profile. Keep learning, building, and growing! 🚀*
 
 </div>
