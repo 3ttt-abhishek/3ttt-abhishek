@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Abhishek Kumar 👋
@@ -17,6 +16,9 @@ Building practical web applications and continuously learning to become a better
   </a>
   <a href="https://hemocampus.onrender.com/">
     <img src="https://img.shields.io/badge/Live-HemoCampus-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HemoCampus Live" />
+  </a>
+  <a href="https://travelease-es8z.onrender.com/">
+    <img src="https://img.shields.io/badge/Live-TravelEase-FF8C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TravelEase Live" />
   </a>
 </p>
 
@@ -74,16 +76,16 @@ A Django-based web application designed to connect administrators, hospitals, an
 
 <p>
   <a href="https://hemocampus.onrender.com/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HemoCampus Live Demo" />
   </a>
   <a href="https://github.com/Code-Pankaj-dev/HemoCampus">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="HemoCampus Source Code" />
   </a>
 </p>
 
-### 🧳 2. TravelEase — Travel Web Project
+### 🧳 2. TravelEase — Travel & Tourism Web Application
 
-A travel-related web project focused on creating a structured and user-friendly digital experience.
+A travel-related web project focused on providing users with a structured and user-friendly digital experience.
 
 **Tech Stack:** HTML · CSS · JavaScript
 
@@ -94,7 +96,12 @@ A travel-related web project focused on creating a structured and user-friendly 
 - Practical web development experience
 
 <p>
-  [Live Demo](YOUR_TRAVELEASE_LIVE_URL) · [Source Code](YOUR_TRAVELEASE_REPOSITORY_URL)
+  <a href="https://travelease-es8z.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-FF8C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TravelEase Live Demo" />
+  </a>
+  <a href="https://github.com/3ttt-abhishek/TravelEase">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="TravelEase Source Code" />
+  </a>
 </p>
 
 ---
@@ -124,7 +131,7 @@ I believe in learning by doing, staying curious, and improving with every projec
   <a href="https://github.com/3ttt-abhishek">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkdin.com/in/code-abhishek">
+  <a href="https://linkedin.com/in/code-abhishek">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
