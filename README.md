@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhishek Kumar 👋
 
-### Aspiring Web Developer | Python & Django Enthusiast
+### Full Stack Developer | Python & Django
 
 Building practical web applications, solving problems, and learning something new with every project.
 
@@ -30,16 +30,12 @@ Building practical web applications, solving problems, and learning something ne
 
 ## 👨‍💻 About Me
 
-I'm a Diploma student in Computer Science Engineering with a strong interest in web development and software engineering.
+I'm a Full Stack Developer with a Diploma in Computer Science & Engineering. I enjoy turning ideas into practical web applications, from designing the frontend to building the backend and database layer.
 
-I enjoy turning ideas into practical applications, exploring new technologies, and improving my skills through hands-on projects.
-
-- 🎓 Diploma in Computer Science Engineering
-- 💻 Interested in frontend and backend web development
-- 🐍 Learning Python and Django
-- 🩸 Developed **HemoCampus — Blood Bank Management System**
-- 🧳 Built **TravelEase — Travel Web Project**
-- 🌱 Improving my coding and problem-solving skills
+- 🎓 Diploma in Computer Science & Engineering
+- 🐍 Building web applications with Python and Django
+- 🩸 Developed **HemoCampus** — Blood Bank Management System
+- 🧳 Built **TravelEase** — Tour & Travel Management System
 - 🎯 Working towards becoming a professional software developer
 
 ---
@@ -60,11 +56,19 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 <br>
 
-**Database & Development Tools**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode&theme=dark" alt="SQLite Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark" alt="SQLite MySQL" />
+
+<br>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
 
 </div>
+
+`REST API`
 
 ---
 
@@ -72,7 +76,7 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 ### 🩸 HemoCampus — Blood Bank Management System
 
-A Django-based web application designed to organize blood donation activities through a centralized platform for administrators, hospitals, and donors.
+A Django-based web application that organizes blood donation activities through a centralized platform for administrators, hospitals, and donors.
 
 **Tech Stack**
 
@@ -99,24 +103,28 @@ A Django-based web application designed to organize blood donation activities th
 
 ---
 
-### 🧳 TravelEase — Travel Web Project
+### 🧳 TravelEase — Tour & Travel Management System
 
-A travel-focused web project designed to provide users with an organized and user-friendly browsing experience.
+A full-stack Django web application that brings travel destinations, tour packages, hotel booking, and flight booking into one platform.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+`Python` `Django` `HTML` `CSS` `JavaScript` `SQLite`
 
-**Project Highlights**
-- 🌍 Travel-focused web interface
-- 🎨 Organized frontend design
-- 📱 Focus on usability and responsive layouts
-- 💻 Practical web development experience
+**Key Features**
+- 🌍 Destination and tour package browsing
+- 🏨 Hotel booking
+- ✈️ Flight booking
+- 🧭 Travel services in one centralized platform
 
 <div align="center">
 
 <a href="https://travelease-es8z.onrender.com/">
   <img src="https://img.shields.io/badge/↗%20Explore%20TravelEase-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore TravelEase Live Website" />
+</a>
+&nbsp;
+<a href="https://github.com/3ttt-abhishek/TravelEase">
+  <img src="https://img.shields.io/badge/⌘%20View%20Source%20Code-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View TravelEase Source Code" />
 </a>
 
 </div>
@@ -125,12 +133,11 @@ A travel-focused web project designed to provide users with an organized and use
 
 ## 📚 Currently Learning
 
-- Responsive and accessible web interfaces
-- Backend development with Python and Django
-- Database management and application architecture
-- Git and GitHub version control
-- Clean and maintainable code
-- Web application deployment
+- Advanced Django and REST APIs
+- Database architecture
+- Authentication and security
+- Deployment
+- Modern JavaScript
 
 ---
 
