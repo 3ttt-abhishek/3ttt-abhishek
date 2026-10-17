@@ -123,7 +123,7 @@ A Django-based travel web application designed to bring travel destinations, tou
 <div align="center">
 
 <a href="https://travelease-es8z.onrender.com/">
-  <img src="https://img.shields.io/badge/↗%20Explore%20TravelEase-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore TravelEase" />
+  <img src="https://img.shields.io/badge/↗%20Visit%20Live%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit TravelEase" />
 </a>
 &nbsp;
 <a href="https://github.com/3ttt-abhishek/TravelEase">
