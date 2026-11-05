@@ -1,4 +1,3 @@
-
 <!-- ==================== HEADER BANNER ==================== -->
 
 <div align="center">
@@ -15,13 +14,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Abhishek Kumar**, a Diploma student in **Computer Science and Engineering** with a strong interest in web development and software development.
+Hello! I'm **Abhishek Kumar**, a Diploma student in **Computer Science and Engineering** with a strong interest in building real-world web applications.
 
 I enjoy building practical projects, learning new technologies, and turning ideas into useful web applications.
 
 - 🎓 Diploma in Computer Science and Engineering
 - 💻 Aspiring Full Stack Developer
-- 🌱 Currently improving my skills in Python, Django and Web Development
+- 🌱 Currently Building **Sevora - Food Ordering Platform**
 - 🚀 Interested in building real-world projects
 - 🤝 Open to learning, collaboration and internship opportunities
 - 📍 India
@@ -64,7 +63,7 @@ I enjoy building practical projects, learning new technologies, and turning idea
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=django,sqlite,mysql" alt="Framework and database skills"/>
+<img src="https://skillicons.dev/icons?i=django,sqlite,mysql,bootstrap" alt="Framework and database skills"/>
 
 </div>
 
@@ -82,7 +81,29 @@ I enjoy building practical projects, learning new technologies, and turning idea
 
 ## 🚀 Featured Projects
 
-### 1. HemoCampus — Blood Bank Management System
+### 1. Sevora — Food Ordering Platform [Current Project]
+
+A Zomato/Swiggy inspired food ordering website focused on modern UI and restaurant discovery.
+
+**Key Features:**
+- Restaurant discovery with dynamic location search (No hardcoded city)
+- Food categories with rectangle + circle UI design
+- Advanced filters - Pure Veg, Fast Delivery, Rating, Price
+- Today's offers, trending dishes, top-rated restaurants
+- Fully responsive design with master.html template system
+
+**Technologies:** HTML, CSS, JavaScript, Python, Django
+
+<div align="left">
+
+<a href="https://github.com/3ttt-abhishek/Sevora">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="Sevora repository"/>
+</a>
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="In development"/>
+
+</div>
+
+### 2. HemoCampus — Blood Bank Management System
 
 A blood bank management system designed to manage donors, hospitals, blood stock, and blood requests.
 
@@ -102,7 +123,7 @@ A blood bank management system designed to manage donors, hospitals, blood stock
 
 </div>
 
-### 2. TravelEase — Tour and Travel Management System
+### 3. TravelEase — Tour and Travel Management System
 
 A travel website designed to help users explore destinations, tour packages, hotels, and travel services.
 
@@ -119,24 +140,6 @@ A travel website designed to help users explore destinations, tour packages, hot
 <a href="https://github.com/3ttt-abhishek/TravelEase">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="TravelEase repository"/>
 </a>
-
-</div>
-
-### 3. Sevora — Food Ordering Website
-
-A food ordering website currently under development, focused on restaurant discovery, food categories, offers, and online ordering.
-
-**Planned Features:**
-- Restaurant discovery
-- Food categories
-- Special offers and discounts
-- Food ordering interface
-
-**Technologies:** HTML, CSS, JavaScript
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="In development"/>
 
 </div>
 
