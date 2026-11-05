@@ -1,290 +1,339 @@
-<!-- ================================================= -->
-<!-- 1. INTRODUCTION -->
-<!-- ================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:FF7A00&height=220&section=header&text=Abhishek%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20Django&descAlignY=60&descSize=18" width="100%" alt="Abhishek Kumar Banner">
+<!-- ================= INTRODUCTION ================= -->
 
-# 👋 Hi, I'm Abhishek Kumar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:FF7A00&height=5&section=header" width="100%"/>
 
-### Computer Science Engineering Student | Aspiring Full Stack Developer
+# Hi, I'm Abhishek Kumar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF7A00&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Python+%26+Django+Developer;Building+Real-World+Projects;Passionate+About+Web+Development;Always+Learning+New+Technologies" alt="Animated Typing Text">
+### Full Stack Developer | Python & Django
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=0D47A1&center=true&vCenter=true&width=550&lines=Building+Modern+Web+Applications;Python+%26+Django+Developer;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0D47A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-India-FF7A00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-16A34A?style=flat-square"/>
+</p>
 
 </div>
 
-<br>
+---
 
-<!-- ================================================= -->
-<!-- 2. ABOUT ME -->
-<!-- ================================================= -->
+<!-- ================= ABOUT ME ================= -->
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Abhishek Kumar**, a Computer Science and Engineering student passionate about developing modern, responsive, and user-friendly web applications.
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-- 🎓 Diploma in Computer Science and Engineering.
-- 💻 Interested in Full Stack Web Development.
-- 🐍 Learning Python and Django.
-- 🌐 Exploring modern web technologies.
-- 🚀 Building practical and real-world projects.
-- 📚 Continuously improving my programming skills.
-- 🤝 Open to collaboration and internship opportunities.
-- 📍 Location: India.
+I'm **Abhishek Kumar**, an aspiring Full Stack Developer passionate about building modern, responsive and user-friendly web applications.
 
-<br>
+- 🎓 Diploma in Computer Science & Engineering.
+- 💻 Interested in Python, Django and Web Development.
+- 🚀 Building practical projects and real-world solutions.
+- 🌱 Continuously learning new technologies.
+- 🎯 Focused on writing clean and maintainable code.
+- 🤝 Open to collaboration and development opportunities.
 
-<!-- ================================================= -->
-<!-- 3. CONNECT WITH ME -->
-<!-- ================================================= -->
+</td>
 
-## 🌐 Connect With Me
+<td width="35%" align="center" valign="middle">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
+
+<br/>
+
+**Developer Mindset**
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= CONNECT WITH ME ================= -->
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+&nbsp;
+<a href="https://linkedin.com/in/code-abhishek">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+&nbsp;
+<a href="mailto:abhikumar761800@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
-<!-- ================================================= -->
-<!-- 4. TECHNICAL SKILLS -->
-<!-- ================================================= -->
+<!-- ================= TECHNICAL SKILLS ================= -->
 
 ## 🛠️ Technical Skills
 
-<table align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js&perline=2" />
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=django,bootstrap&perline=2" />
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=2" />
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&perline=2" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= COMPLETED PROJECTS ================= -->
+
+## 🚀 Completed Projects
+
+<table width="100%">
 <tr>
 
-<td align="center" width="25%">
+<!-- HEMOCAMPUS -->
 
-### 💻 Programming Languages
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js&perline=2" alt="Programming Languages">
+<h3 align="center">🩸 HemoCampus</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
+</p>
+
+<p align="center">
+<strong>Blood Bank Management System</strong>
+</p>
+
+A web-based blood bank management system designed to simplify blood donation and blood availability management.
+
+**Key Features:**
+
+- Donor Management
+- Blood Stock Management
+- Hospital Management
+- Blood Request Management
+
+**Technologies:**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,sqlite&perline=6"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/3ttt-abhishek/HemoCampus">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://hemocampus.onrender.com/">
+<img src="https://img.shields.io/badge/Live-Demo-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
-<td align="center" width="25%">
+<!-- TRAVELEASE -->
 
-### ⚙️ Frameworks
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=django,bootstrap&perline=2" alt="Frameworks">
+<h3 align="center">✈️ TravelEase</h3>
 
-</td>
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
+</p>
 
-<td align="center" width="25%">
+<p align="center">
+<strong>Tour & Travel Management Website</strong>
+</p>
 
-### 🗄️ Database
+A travel website designed to help users explore destinations, discover tour packages and browse travel services.
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=2" alt="Database">
+**Key Features:**
 
-</td>
+- Domestic & International Packages
+- Hotel Booking Interface
+- Destination Exploration
+- Travel Services & Gallery
 
-<td align="center" width="25%">
+**Technologies:**
 
-### 🔧 Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,sqlite&perline=6"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,windows&perline=2" alt="Development Tools">
+<p align="center">
+<a href="https://github.com/3ttt-abhishek/TravelEase">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://travelease-es8z.onrender.com/">
+<img src="https://img.shields.io/badge/Live-Demo-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ================================================= -->
-<!-- 5. COMPLETED PROJECTS -->
-<!-- ================================================= -->
+<!-- ================= UPCOMING PROJECT ================= -->
 
-## 🚀 Completed Projects
+## 🔨 Upcoming Project
 
-### 01. 🩸 HemoCampus — Blood Bank Management System
+<div align="center">
 
-A web-based Blood Bank Management System designed to manage donors, blood stock, hospitals, and blood requests efficiently.
+### 🍔 Sevora
 
-**Key Features:**
+<img src="https://img.shields.io/badge/PROJECT-UPCOMING-FF7A00?style=for-the-badge"/>
 
-- 🧑‍🤝‍🧑 Donor Management
-- 🩸 Blood Stock Management
-- 🏥 Hospital Management
-- 📋 Blood Request Management
-- 💻 User-Friendly Interface
+### Food Ordering & Delivery Platform
 
-**Technologies Used:**
+A modern food ordering platform focused on providing a smooth food discovery and online ordering experience.
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite" alt="HemoCampus Technologies">
+**Planned Features**
 
-<br><br>
+| Feature | Description |
+|:---|:---|
+| 🍕 Food Categories | Explore different food categories |
+| 🏪 Restaurants | Discover restaurants |
+| 🔍 Smart Search | Find food and restaurants |
+| 🛒 Online Ordering | Easy food ordering experience |
+| 🎁 Special Offers | Discounts and promotional offers |
+| ⭐ Reviews | Customer ratings and feedback |
 
-<a href="YOUR_HEMOCAMPUS_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="HemoCampus Repository">
-</a>
+**Planned Technologies**
 
-<img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge" alt="Completed">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Development-Coming%20Soon-FF7A00?style=for-the-badge"/>
+
+</div>
 
 ---
 
-### 02. 🌍 TravelEase — Tour & Travel Management System
-
-A Tour and Travel Management Website designed to help users explore destinations, discover tour packages, view hotels, and manage travel bookings.
-
-**Key Features:**
-
-- 🌎 Domestic & International Destinations
-- 🧳 Tour Packages
-- 🏨 Hotel Information
-- 🎫 Travel Booking
-- 📱 Responsive Website Design
-
-**Technologies Used:**
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite" alt="TravelEase Technologies">
-
-<br><br>
-
-<a href="https://github.com/3ttt-abhishek/TravelEase">
-<img src="https://img.shields.io/badge/GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="TravelEase Repository">
-</a>
-
-<img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge" alt="Completed">
-
-<br>
-
-<!-- ================================================= -->
-<!-- 6. UPCOMING PROJECT -->
-<!-- ================================================= -->
-
-## 🔮 Upcoming Project
-
-### 01. 🍔 Sevora — Food Ordering Platform
-
-Sevora is a modern Food Ordering and Delivery Platform designed to help users discover restaurants, explore food items, and enjoy a convenient ordering experience.
-
-**Planned Features:**
-
-- 🍽️ Restaurant Discovery
-- 🍕 Food Categories
-- 📍 Dynamic Location Search
-- 🥗 Veg & Non-Veg Filters
-- 🔥 Trending Dishes
-- 🎁 Offers & Discounts
-- 🛒 Online Food Ordering
-
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql" alt="Sevora Technologies">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-In%20Development-FF9800?style=for-the-badge" alt="In Development">
-
-<br>
-
-<!-- ================================================= -->
-<!-- 7. GITHUB STATISTICS -->
-<!-- ================================================= -->
+<!-- ================= GITHUB STATISTICS ================= -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/3ttt-abhishek">
-<img src="https://ghstats.dev/api/card?username=3ttt-abhishek&theme=midnight" width="90%" alt="GitHub Statistics">
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=3ttt-abhishek&show_icons=true&hide_border=true&title_color=0D47A1&icon_color=FF7A00&text_color=555555&bg_color=ffffff&rank_icon=github"/>
 
-<br><br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ttt-abhishek&layout=compact&hide_border=true&title_color=0D47A1&text_color=555555&bg_color=ffffff"/>
 
-<a href="https://ghstats.dev">
-<img src="https://ghstats.dev/api/card?username=3ttt-abhishek&theme=midnight&layout=compact" width="90%" alt="GitHub Language Statistics">
-</a>
+<br/><br/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/3ttt-abhishek?label=Followers&style=for-the-badge&color=0D47A1"/>
 
-<a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/github/followers/3ttt-abhishek?style=for-the-badge&logo=github&label=Followers&color=1565C0" alt="Followers">
-</a>
+<img src="https://img.shields.io/github/stars/3ttt-abhishek?label=Total%20Stars&style=for-the-badge&color=FF7A00"/>
 
-<a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/badge/Public%20Repositories-View%20All-1565C0?style=for-the-badge&logo=github" alt="Repositories">
-</a>
-
-<a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/github/stars/3ttt-abhishek?style=for-the-badge&logo=github&label=Total%20Stars&color=FF7A00" alt="Stars">
-</a>
+<img src="https://img.shields.io/badge/GitHub%20Profile-Active-16A34A?style=for-the-badge&logo=github"/>
 
 </div>
 
-<br>
+---
 
-<!-- ================================================= -->
-<!-- 8. CONTRIBUTION ACTIVITY -->
-<!-- ================================================= -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
-## 🔥 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-### My GitHub Contribution Graph
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=3ttt-abhishek&bg_color=ffffff&color=0D47A1&line=FF7A00&point=0D47A1&area=true&hide_border=true"/>
 
-<img src="https://ghchart.rshah.org/FF7A00/3ttt-abhishek" width="100%" alt="GitHub Contribution Graph">
+<br/><br/>
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=3ttt-abhishek&hide_border=true&background=FFFFFF&ring=FF7A00&fire=FF7A00&currStreakLabel=0D47A1&sideLabels=0D47A1&currStreakNum=0D47A1&sideNums=0D47A1&dates=777777"/>
 
-### Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=3ttt-abhishek" width="85%" alt="GitHub Contribution Streak">
-
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/badge/View%20Contribution%20Profile-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Profile">
+<img src="https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
-<!-- ================================================= -->
-<!-- 9. PROFILE VISITORS -->
-<!-- ================================================= -->
+<!-- ================= PROFILE VISITORS ================= -->
 
 ## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=3ttt-abhishek&label=Profile%20Views&color=FF7A00&style=for-the-badge" alt="Profile Visitors">
+<img src="https://komarev.com/ghpvc/?username=3ttt-abhishek&label=PROFILE%20VIEWS&color=0D47A1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-<br>
+---
 
-<!-- ================================================= -->
-<!-- 10. DEVELOPER QUOTE & FOOTER -->
-<!-- ================================================= -->
+<!-- ================= DEVELOPER QUOTE ================= -->
 
 ## 💡 Developer Quote
 
 <div align="center">
 
-### "Great things are built one line of code at a time."
+### "Great things are done by a series of small things brought together."
 
-**Keep Learning. Keep Building. Keep Growing.**
+*Keep Learning. Keep Building. Keep Growing.*
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,50:1565C0,100:0D47A1&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=27&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Thank You Footer">
+---
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:FF7A00&height=5&section=footer" width="100%"/>
+
+<br/>
+
+**Thanks for Visiting My Profile!**
+
+Made with ❤️ by **Abhishek Kumar**
+
+<a href="https://github.com/3ttt-abhishek">
+<img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=flat-square&logo=github"/>
+</a>
 
 </div>
