@@ -205,6 +205,8 @@ A modern food ordering platform focused on restaurant discovery, fast delivery a
 
 </div>
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
