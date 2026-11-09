@@ -203,12 +203,7 @@ A modern food ordering platform focused on restaurant discovery and convenient o
 
 <br/>
 
-**Planned Technology Stack**
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,bootstrap"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-0D47A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Python%20%7C%20Django-FF7A00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database-MySQL-16A34A?style=flat-square"/>
+### 🛠️ Planned Technology Stack
 
 </div>
 
@@ -255,10 +250,20 @@ A modern food ordering platform focused on restaurant discovery and convenient o
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=3ttt-abhishek&label=PROFILE%20VISITORS&color=0D47A1&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0D47A1&text=Thanks%20for%20Visiting!%20✨&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=55&descSize=16" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=3ttt-abhishek&label=PROFILE%20VIEWS&color=0D47A1&style=for-the-badge"/>
 
 <br/><br/>
 
-**Made with ❤️ by Abhishek Kumar**
+### 💙 If you like my projects, don't forget to ⭐ star them!
+
+**Made with ❤️ by Abhishek Kumar | Happy Coding! 👨‍💻**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Let's%20Connect%20and%20Grow%20Together-0D47A1?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
