@@ -204,10 +204,10 @@ A modern food ordering platform focused on restaurant discovery and convenient o
 <br/>
 
 ### 🛠️ Planned Technology Stack
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,bootstrap" />
 
 </div>
-
----
 
 ## 📊 GitHub Statistics
 
