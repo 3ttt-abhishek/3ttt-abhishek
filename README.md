@@ -82,7 +82,7 @@
 
 </div>
 
-A web-based platform to simplify blood donation and availability management.
+A web-based platform designed to simplify blood donation and blood availability management. It helps connect donors, recipients and blood banks efficiently.
 
 <div align="center">
 
@@ -107,7 +107,7 @@ A web-based platform to simplify blood donation and availability management.
 
 </div>
 
-A modern travel platform to explore destinations and tour packages.
+A web-based platform that helps users explore destinations and discover tour packages. It provides a seamless experience for travel planning and booking.
 
 <div align="center">
 
@@ -134,7 +134,7 @@ A modern travel platform to explore destinations and tour packages.
 
 </div>
 
-A personal website showcasing my profile, skills and projects.
+A personal website showcasing my professional profile, technical skills and projects. Designed with a modern UI to represent my work effectively.
 
 <div align="center">
 
@@ -159,7 +159,7 @@ A personal website showcasing my profile, skills and projects.
 
 </div>
 
-A modern calculator application with clean interface and history.
+A modern calculator application featuring a clean interface and calculation history. Built to provide fast and accurate calculations with a user-friendly design.
 
 <div align="center">
 
