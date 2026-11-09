@@ -10,62 +10,56 @@
 
 <br/>
 
-<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/code-abhishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abhikumar761800@gmail.com"><img src="https://img.shields.io/badge/Email-FF7A00?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-0D47A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CORE%20TECH-PYTHON%20%26%20DJANGO-FF7A00?style=for-the-badge"/>
+<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/code-abhishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhikumar761800@gmail.com"><img src="https://img.shields.io/badge/Email-FF7A00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## About Me
-
-I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with a strong interest in Full Stack Web Development.
-
-- 🎓 Diploma in Computer Science & Engineering
-- 💻 Focused on Python and Django development
-- 🌐 Interested in frontend and backend technologies
-- 🚀 Built projects involving travel, blood bank management and web applications
-- 📚 Always learning and improving my development skills
-- 🤝 Open to collaboration and new opportunities
-
----
-
-## Technical Skills
+## 🛠️ Technical Skills
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**PROGRAMMING**
-<br/><br/>
+### 💻 PROGRAMMING
+<br/>
 <img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**FRAMEWORKS**
+### 🎨 FRAMEWORKS
+<br/>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=django,bootstrap"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**DATABASE**
+### 🗄️ DATABASE
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**TOOLS**
-<br/><br/>
+### 🔧 TOOLS
+<br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </td>
 </tr>
@@ -73,7 +67,7 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
@@ -81,7 +75,7 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 
 <div align="center">
 
-### HemoCampus
+### 🩸 HemoCampus
 **Blood Bank Management System**
 <br/>
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
@@ -91,19 +85,19 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 A web-based platform designed to simplify blood donation and blood availability management.
 
 **Core Features**
-- Donor Management
-- Blood Stock Management
+- Donor & Blood Stock Management
 - Hospital Management
 - Blood Request Management
+
+<div align="center">
 
 **Technology Stack**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite"/>
+<br/><br/>
+<a href="https://github.com/3ttt-abhishek/HemoCampus"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
+<a href="https://hemocampus.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
 
-<div align="center">
-<br/>
-<a href="https://github.com/3ttt-abhishek/HemoCampus"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://hemocampus.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
 </td>
@@ -111,29 +105,29 @@ A web-based platform designed to simplify blood donation and blood availability 
 
 <div align="center">
 
-### TravelEase
+### ✈️ TravelEase
 **Tour & Travel Management Website**
 <br/>
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
 
-A modern travel platform that helps users explore destinations, discover tour packages and browse travel services.
+A modern travel platform that helps users explore destinations and discover tour packages.
 
 **Core Features**
 - Domestic & International Packages
 - Hotel Booking Interface
 - Destination Exploration
-- Travel Services & Gallery
+
+<div align="center">
 
 **Technology Stack**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite"/>
+<br/><br/>
+<a href="https://github.com/3ttt-abhishek/TravelEase"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
+<a href="https://travelease-es8z.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
 
-<div align="center">
-<br/>
-<img src="https://img.shields.io/badge/SOURCE%20CODE-PRIVATE-64748B?style=for-the-badge"/>
-<a href="https://travelease-es8z.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
 </td>
@@ -143,31 +137,29 @@ A modern travel platform that helps users explore destinations, discover tour pa
 
 <div align="center">
 
-### Portfolio
+### 👨‍💻 Portfolio
 **Personal Portfolio Website**
 <br/>
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
 
-A personal website showcasing my professional profile, technical skills, projects and resume.
+A personal website showcasing my professional profile, technical skills and projects.
 
 **Core Features**
 - Professional Introduction
 - Technical Skills Showcase
-- Featured Projects
-- Resume Download
-- Contact & Social Links
+- Featured Projects & Resume
+
+<div align="center">
 
 **Technology Stack**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+<br/><br/>
+<a href="https://github.com/3ttt-abhishek/Portfolio"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
+<a href="https://3ttt-abhishek.github.io/Portfolio/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
 
-<div align="center">
-<br/>
-<a href="https://github.com/3ttt-abhishek/Portfolio"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
-<br/>
-<img src="https://img.shields.io/badge/LIVE%20DEMO-DEPLOYMENT%20PENDING-FF7A00?style=for-the-badge"/>
 </div>
 
 </td>
@@ -175,30 +167,29 @@ A personal website showcasing my professional profile, technical skills, project
 
 <div align="center">
 
-### Calculator
+### 🧮 Calculator
 **Professional Calculator Application**
 <br/>
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
 
-A modern calculator application featuring a clean interface, intuitive controls and calculation history.
+A modern calculator application featuring a clean interface and calculation history.
 
 **Core Features**
 - Professional Calculator UI
 - Mathematical Operations
-- Orange Button Design
 - Calculation History
-- Clear History Option
+
+<div align="center">
 
 **Technology Stack**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
+<br/><br/>
+<a href="https://github.com/3ttt-abhishek/Calculator"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
+<a href="https://calculator-lxo1.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
 
-<div align="center">
-<br/>
-<a href="https://github.com/3ttt-abhishek/Calculator"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://calculator-lxo1.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
 </td>
@@ -207,62 +198,94 @@ A modern calculator application featuring a clean interface, intuitive controls 
 
 ---
 
-## Upcoming Project
+## 🔥 Upcoming Project - SEVORA
 
 <div align="center">
 
-# SEVORA
-### Food Ordering & Delivery Platform
-<img src="https://img.shields.io/badge/PROJECT%20STATUS-UPCOMING-FF7A00?style=for-the-badge"/>
-
-A modern food ordering platform focused on restaurant discovery, food exploration and convenient online ordering.
-
-<br/><br/>
-
-<table width="70%">
+<table width="90%" style="border: 1px solid #0D47A1; border-radius: 12px;">
 <tr>
-<td align="center">🍕<br/><b>Food Discovery</b></td>
-<td align="center">🏪<br/><b>Restaurants</b></td>
-<td align="center">🛒<br/><b>Ordering</b></td>
-<td align="center">🎁<br/><b>Offers</b></td>
+<td align="center" colspan="4" style="padding:20px; background: linear-gradient(135deg, #0D47A1 0%, #FF7A00 100%); border-radius: 12px 12px 0 0;">
+
+<h1 style="color:white; margin:0;">🍔 SEVORA 🍕</h1>
+<h3 style="color:white; margin:5px 0;">Food Ordering & Delivery Platform</h3>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF7A00?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" style="padding:20px;">
+
+### 🔍<br/>Food Discovery
+<sub>Explore Food Categories</sub>
+
+</td>
+<td align="center" width="25%" style="padding:20px;">
+
+### 🏪<br/>Restaurants
+<sub>Explore Restaurants</sub>
+
+</td>
+<td align="center" width="25%" style="padding:20px;">
+
+### 🛒<br/>Ordering
+<sub>Online Ordering</sub>
+
+</td>
+<td align="center" width="25%" style="padding:20px;">
+
+### 🎁<br/>Offers
+<sub>Special Discounts</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4" style="padding:15px; background:#f8fafc; border-radius: 0 0 12px 12px;">
+
+**Planned Technology Stack**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql"/>
+
+</td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-**Planned Technology Stack**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql"/>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=3ttt-abhishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D47A1&icon_color=FF7A00&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ttt-abhishek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D47A1&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/Followers-3ttt--abhishek-0D47A1?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/github/stars/3ttt-abhishek?label=Stars&style=for-the-badge&color=FF7A00"/></a>
+<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/Repositories-Public-16A34A?style=for-the-badge&logo=github"/></a>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ttt-abhishek&theme=tokyonight" width="100%"/>
 
 </div>
 
 ---
 
-## GitHub Statistics
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=3ttt-abhishek&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0D47A1&icon_color=FF7A00&text_color=444444&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ttt-abhishek&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D47A1&text_color=444444"/>
+<img src="https://streak-stats.demolab.com?user=3ttt-abhishek&theme=tokyonight&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=0D47A1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="60%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/3ttt-abhishek?style=for-the-badge&label=Followers&color=0D47A1"/>
-<img src="https://img.shields.io/github/repos/3ttt-abhishek?style=for-the-badge&label=Repositories&color=FF7A00"/>
-<img src="https://img.shields.io/github/stars/3ttt-abhishek?style=for-the-badge&label=Stars&color=16A34A"/>
+<img src="https://ghchart.rshah.org/FF7A00/3ttt-abhishek" width="100%" alt="Contribution Chart"/>
 
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=3ttt-abhishek&bg_color=FFFFFF&color=0D47A1&line=FF7A00&point=FF7A00&area=true&hide_border=true"/>
 <br/><br/>
-<img width="70%" src="https://streak-stats.demolab.com?user=3ttt-abhishek&theme=default&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=0D47A1&sideLabels=0D47A1&currStreakNum=0D47A1&sideNums=0D47A1"/>
-<br/><br/>
+
 <a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
