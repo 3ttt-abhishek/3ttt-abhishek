@@ -6,7 +6,7 @@
 
 ### Computer Science Engineering Student | Aspiring Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&duration=3000&pause=1000&color=0D47A1&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Practical+Web+Applications;Turning+Ideas+Into+Digital+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=19&duration=3000&pause=1000&color=FFC300&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Practical+Web+Applications;Turning+Ideas+Into+Digital+Solutions"/>
 
 <br/>
 
@@ -39,44 +39,36 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 <tr>
 <td width="25%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-<br/>
 **LANGUAGES**
-<br/>
-<sub>Python, HTML, CSS, JavaScript</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=python,html,css,js"/>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=django" width="48"/>
-<br/>
 **FRAMEWORKS**
-<br/>
-<sub>Django, Bootstrap, Tailwind</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=django" width="48"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind"/>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-<br/>
 **DATABASES**
-<br/>
-<sub>MySQL, SQLite</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-<br/>
 **DEV TOOLS**
-<br/>
-<sub>VS Code, Git, GitHub</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
 
@@ -98,10 +90,14 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 
 ### 🩸 HemoCampus
 **Blood Bank Management System**
+
 <br/>
+
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
+
+<br/>
 
 A web-based platform designed to simplify blood donation and blood availability management.
 
@@ -113,7 +109,9 @@ A web-based platform designed to simplify blood donation and blood availability 
 <div align="center">
 
 **Technology Stack**
-<br/>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite"/>
 <br/><br/>
 <a href="https://github.com/3ttt-abhishek/HemoCampus"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
@@ -128,12 +126,16 @@ A web-based platform designed to simplify blood donation and blood availability 
 
 ### ✈️ TravelEase
 **Tour & Travel Management Website**
+
 <br/>
+
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
 
-A modern travel platform that helps users explore destinations and discover tour packages.
+<br/>
+
+A web-based platform that helps users explore destinations and discover tour packages.
 
 **Core Features**
 - Domestic & International Packages
@@ -143,7 +145,9 @@ A modern travel platform that helps users explore destinations and discover tour
 <div align="center">
 
 **Technology Stack**
-<br/>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite"/>
 <br/><br/>
 <a href="https://github.com/3ttt-abhishek/TravelEase"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
@@ -160,10 +164,14 @@ A modern travel platform that helps users explore destinations and discover tour
 
 ### 👨‍💻 Portfolio
 **Personal Portfolio Website**
+
 <br/>
+
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
+
+<br/>
 
 A personal website showcasing my professional profile, technical skills and projects.
 
@@ -175,7 +183,9 @@ A personal website showcasing my professional profile, technical skills and proj
 <div align="center">
 
 **Technology Stack**
-<br/>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 <br/><br/>
 <a href="https://github.com/3ttt-abhishek/Portfolio"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
@@ -190,10 +200,14 @@ A personal website showcasing my professional profile, technical skills and proj
 
 ### 🧮 Calculator
 **Professional Calculator Application**
+
 <br/>
+
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
 </div>
+
+<br/>
 
 A modern calculator application featuring a clean interface and calculation history.
 
@@ -205,7 +219,9 @@ A modern calculator application featuring a clean interface and calculation hist
 <div align="center">
 
 **Technology Stack**
-<br/>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 <br/><br/>
 <a href="https://github.com/3ttt-abhishek/Calculator"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
@@ -256,7 +272,6 @@ A modern food ordering platform focused on restaurant discovery, food exploratio
 <td width="25%" align="center">
 
 ### 🎁<br/>Offers
-<br/>
 <sub>Special Discounts</sub>
 
 </td>
@@ -266,7 +281,9 @@ A modern food ordering platform focused on restaurant discovery, food exploratio
 <br/>
 
 **Planned Technology Stack**
+
 <br/><br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,bootstrap"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-0D47A1?style=flat-square"/>
