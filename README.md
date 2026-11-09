@@ -188,20 +188,16 @@ A modern calculator application featuring a clean interface and calculation hist
 # 🍔 SEVORA 🍕
 ### Food Ordering & Delivery Platform
 
-A modern food ordering platform focused on restaurant discovery and convenient online ordering.
+> **"Crafting a delicious digital experience — where hunger meets convenience!"** 🍽️
+
+A modern food ordering platform focused on restaurant discovery, fast delivery and seamless online ordering. Designed to bring your favorite restaurants closer to you.
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center">🔍<br/><b>Food Discovery</b></td>
-<td width="25%" align="center">🏪<br/><b>Restaurants</b></td>
-<td width="25%" align="center">🛒<br/><b>Ordering</b></td>
-<td width="25%" align="center">🎁<br/><b>Offers</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Status-Crafting%20in%20Progress-FF7A00?style=flat-square&logo=fire&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stay%20Tuned-Soon-0D47A1?style=flat-square"/>
 
-<br/>
+<br/><br/>
 
 ### 🛠️ Planned Technology Stack
 <br/>
