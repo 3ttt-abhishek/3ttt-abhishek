@@ -41,7 +41,7 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 
 <img src="https://skillicons.dev/icons?i=python" width="48"/>
 <br/>
-**PROGRAMMING**
+**LANGUAGES**
 <br/>
 <sub>Python, HTML, CSS, JavaScript</sub>
 <br/><br/>
@@ -63,7 +63,7 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 
 <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
 <br/>
-**DATABASE**
+**DATABASES**
 <br/>
 <sub>MySQL, SQLite</sub>
 <br/><br/>
@@ -74,7 +74,7 @@ I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with
 
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 <br/>
-**TOOLS**
+**DEV TOOLS**
 <br/>
 <sub>VS Code, Git, GitHub</sub>
 <br/><br/>
@@ -250,7 +250,6 @@ A modern food ordering platform focused on restaurant discovery, food exploratio
 <td width="25%" align="center">
 
 ### 🛒<br/>Ordering
-<br/>
 <sub>Fast Ordering</sub>
 
 </td>
