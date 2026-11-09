@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0D47A1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0D47A1" width="100%"/>
 
 # Abhishek Kumar 👋
 
@@ -10,15 +10,9 @@
 
 <br/>
 
-<a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/code-abhishek">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:abhikumar761800@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF7A00?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/code-abhishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhikumar761800@gmail.com"><img src="https://img.shields.io/badge/Email-FF7A00?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -31,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 <td width="70%" valign="middle">
 
@@ -39,15 +33,14 @@ Hello! I'm **Abhishek Kumar**, a Computer Science and Engineering student passio
 
 I enjoy creating practical, responsive and user-friendly web applications using modern technologies.
 
-* 🎓 Diploma in Computer Science & Engineering
-* 💻 Python and Django Developer
-* 🌐 Interested in Full Stack Web Development
-* 🚀 Developed HemoCampus and TravelEase
-* 📚 Continuously learning new technologies
-* 🤝 Open to collaboration and opportunities
+- 🎓 Diploma in Computer Science & Engineering
+- 💻 Python and Django Developer
+- 🌐 Interested in Full Stack Web Development
+- 🚀 Developed HemoCampus, TravelEase and other projects
+- 📚 Continuously learning new technologies
+- 🤝 Open to collaboration and opportunities
 
 </td>
-
 <td width="30%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js&perline=2" />
@@ -64,7 +57,7 @@ I enjoy creating practical, responsive and user-friendly web applications using 
 
 ## 🛠️ Technical Skills
 
-<table width="100%">
+<table width="100%" cellpadding="14" cellspacing="8">
 <tr>
 <td width="25%" align="center" valign="top">
 
@@ -73,7 +66,6 @@ I enjoy creating practical, responsive and user-friendly web applications using 
 <img src="https://skillicons.dev/icons?i=python,html,css,js&perline=2"/>
 
 </td>
-
 <td width="25%" align="center" valign="top">
 
 ### Frameworks
@@ -81,7 +73,6 @@ I enjoy creating practical, responsive and user-friendly web applications using 
 <img src="https://skillicons.dev/icons?i=django,bootstrap&perline=2"/>
 
 </td>
-
 <td width="25%" align="center" valign="top">
 
 ### Database
@@ -89,7 +80,6 @@ I enjoy creating practical, responsive and user-friendly web applications using 
 <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=2"/>
 
 </td>
-
 <td width="25%" align="center" valign="top">
 
 ### Tools
@@ -104,9 +94,8 @@ I enjoy creating practical, responsive and user-friendly web applications using 
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" cellpadding="16" cellspacing="8">
 <tr>
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -122,11 +111,10 @@ I enjoy creating practical, responsive and user-friendly web applications using 
 A web-based Blood Bank Management System designed to simplify blood donation and blood availability management.
 
 **Key Features**
-
-* Donor Management
-* Blood Stock Management
-* Hospital Management
-* Blood Request Management
+- Donor Management
+- Blood Stock Management
+- Hospital Management
+- Blood Request Management
 
 **Technologies**
 
@@ -136,20 +124,15 @@ A web-based Blood Bank Management System designed to simplify blood donation and
 
 <div align="center">
 
-<a href="https://github.com/3ttt-abhishek/HemoCampus">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/3ttt-abhishek/HemoCampus"><img src="https://img.shields.io/badge/GITHUB%20REPOSITORY-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
-<a href="https://hemocampus.onrender.com/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://hemocampus.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
 </td>
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -165,11 +148,10 @@ A web-based Blood Bank Management System designed to simplify blood donation and
 A modern travel website that helps users explore destinations, discover tour packages and browse travel services.
 
 **Key Features**
-
-* Domestic & International Packages
-* Hotel Booking Interface
-* Destination Exploration
-* Travel Services & Gallery
+- Domestic & International Packages
+- Hotel Booking Interface
+- Destination Exploration
+- Travel Services & Gallery
 
 **Technologies**
 
@@ -179,20 +161,93 @@ A modern travel website that helps users explore destinations, discover tour pac
 
 <div align="center">
 
-<a href="https://github.com/3ttt-abhishek/TravelEase">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/3ttt-abhishek/TravelEase"><img src="https://img.shields.io/badge/GITHUB%20REPOSITORY-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
-<a href="https://travelease-es8z.onrender.com/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://travelease-es8z.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
 </td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💻 Portfolio
+
+**Personal Portfolio Website**
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
+
+</div>
+
+A personal portfolio website showcasing my skills, projects, resume and professional profile.
+
+**Key Features**
+- Professional Introduction
+- Technical Skills Showcase
+- Featured Projects
+- Resume Download
+- Contact & Social Links
+
+**Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3"/>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/3ttt-abhishek/Portfolio"><img src="https://img.shields.io/badge/GITHUB%20REPOSITORY-181717?style=for-the-badge&logo=github"/></a>
+
+<br/><br/>
+
+<!-- Update this URL if your Render service gets a different URL -->
+<a href="https://abhishek-portfolio.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧮 Calculator
+
+**Professional Calculator Application**
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
+
+A modern calculator application with a clean interface, smooth interactions and calculation history.
+
+**Key Features**
+- Professional Calculator UI
+- Orange Button Design
+- Basic Mathematical Operations
+- Calculation History
+- Clear History Option
+
+**Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3"/>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/3ttt-abhishek/Calculator"><img src="https://img.shields.io/badge/GITHUB%20REPOSITORY-181717?style=for-the-badge&logo=github"/></a>
+
+<br/><br/>
+
+<a href="https://calculator-lxo1.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+</td>
 </tr>
 </table>
 
@@ -208,11 +263,11 @@ A modern travel website that helps users explore destinations, discover tour pac
 
 <img src="https://img.shields.io/badge/PROJECT%20STATUS-UPCOMING-FF7A00?style=for-the-badge"/>
 
-</div>
-
 A modern food ordering platform focused on making food discovery, restaurant exploration and online ordering simple and convenient.
 
-<table width="100%">
+</div>
+
+<table width="100%" cellpadding="12" cellspacing="6">
 <tr>
 <td width="25%" align="center">
 
@@ -270,9 +325,7 @@ A modern food ordering platform focused on making food discovery, restaurant exp
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/3ttt-abhishek?style=for-the-badge&label=Followers&color=0D47A1"/>
-
 <img src="https://img.shields.io/github/repos/3ttt-abhishek?style=for-the-badge&label=Repositories&color=FF7A00"/>
-
 <img src="https://img.shields.io/github/stars/3ttt-abhishek?style=for-the-badge&label=Stars&color=16A34A"/>
 
 </div>
@@ -291,9 +344,7 @@ A modern food ordering platform focused on making food discovery, restaurant exp
 
 <br/><br/>
 
-<a href="https://github.com/3ttt-abhishek">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
@@ -327,6 +378,6 @@ A modern food ordering platform focused on making food discovery, restaurant exp
 
 **Made with ❤️ by Abhishek Kumar**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=FF7A00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=FF7A00" width="100%"/>
 
 </div>
