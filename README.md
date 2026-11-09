@@ -18,52 +18,73 @@
 
 ---
 
+## About Me
+
+I'm **Abhishek Kumar**, a Diploma student in Computer Science & Engineering with a strong interest in Full Stack Web Development.
+
+- 🎓 Diploma in Computer Science & Engineering
+- 💻 Focused on Python and Django development
+- 🌐 Interested in frontend and backend technologies
+- 🚀 Built projects involving travel, blood bank management and web applications
+- 📚 Always learning and improving my development skills
+- 🤝 Open to collaboration and new opportunities
+
+---
+
 ## 🛠️ Technical Skills
+
+<div align="center">
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
-### 💻 PROGRAMMING
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
 <br/>
+**PROGRAMMING**
+<br/>
+<sub>Python, HTML, CSS, JavaScript</sub>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,html,css,js"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
-### 🎨 FRAMEWORKS
+<img src="https://skillicons.dev/icons?i=django" width="48"/>
 <br/>
+**FRAMEWORKS**
+<br/>
+<sub>Django, Bootstrap, Tailwind</sub>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
-### 🗄️ DATABASE
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
 <br/>
+**DATABASE**
+<br/>
+<sub>MySQL, SQLite</sub>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
-### 🔧 TOOLS
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+**TOOLS**
+<br/>
+<sub>VS Code, Git, GitHub</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -95,8 +116,8 @@ A web-based platform designed to simplify blood donation and blood availability 
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite"/>
 <br/><br/>
-<a href="https://github.com/3ttt-abhishek/HemoCampus"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
-<a href="https://hemocampus.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
+<a href="https://github.com/3ttt-abhishek/HemoCampus"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://hemocampus.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -125,8 +146,8 @@ A modern travel platform that helps users explore destinations and discover tour
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite"/>
 <br/><br/>
-<a href="https://github.com/3ttt-abhishek/TravelEase"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
-<a href="https://travelease-es8z.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
+<a href="https://github.com/3ttt-abhishek/TravelEase"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://travelease-es8z.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -157,8 +178,8 @@ A personal website showcasing my professional profile, technical skills and proj
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 <br/><br/>
-<a href="https://github.com/3ttt-abhishek/Portfolio"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
-<a href="https://3ttt-abhishek.github.io/Portfolio/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
+<a href="https://github.com/3ttt-abhishek/Portfolio"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://3ttt-abhishek.github.io/Portfolio/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -187,8 +208,8 @@ A modern calculator application featuring a clean interface and calculation hist
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 <br/><br/>
-<a href="https://github.com/3ttt-abhishek/Calculator"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&width=150"/></a>
-<a href="https://calculator-lxo1.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white&width=130"/></a>
+<a href="https://github.com/3ttt-abhishek/Calculator"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://calculator-lxo1.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -198,56 +219,64 @@ A modern calculator application featuring a clean interface and calculation hist
 
 ---
 
-## 🔥 Upcoming Project - SEVORA
+## 🔥 Upcoming Project
 
 <div align="center">
 
-<table width="90%" style="border: 1px solid #0D47A1; border-radius: 12px;">
-<tr>
-<td align="center" colspan="4" style="padding:20px; background: linear-gradient(135deg, #0D47A1 0%, #FF7A00 100%); border-radius: 12px 12px 0 0;">
+<img src="https://img.shields.io/badge/PROJECT-UPCOMING-FF7A00?style=for-the-badge"/>
+<br/><br/>
 
-<h1 style="color:white; margin:0;">🍔 SEVORA 🍕</h1>
-<h3 style="color:white; margin:5px 0;">Food Ordering & Delivery Platform</h3>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF7A00?style=for-the-badge"/>
+# 🍔 SEVORA 🍕
+### Food Ordering & Delivery Platform
 
-</td>
-</tr>
+A modern food ordering platform focused on restaurant discovery, food exploration and convenient online ordering.
+
+<br/>
+
+<table width="100%">
 <tr>
-<td align="center" width="25%" style="padding:20px;">
+<td width="25%" align="center">
 
 ### 🔍<br/>Food Discovery
-<sub>Explore Food Categories</sub>
+<sub>Explore Categories</sub>
 
 </td>
-<td align="center" width="25%" style="padding:20px;">
+<td width="25%" align="center">
 
 ### 🏪<br/>Restaurants
 <sub>Explore Restaurants</sub>
 
 </td>
-<td align="center" width="25%" style="padding:20px;">
+<td width="25%" align="center">
 
 ### 🛒<br/>Ordering
-<sub>Online Ordering</sub>
+<br/>
+<sub>Fast Ordering</sub>
 
 </td>
-<td align="center" width="25%" style="padding:20px;">
+<td width="25%" align="center">
 
 ### 🎁<br/>Offers
+<br/>
 <sub>Special Discounts</sub>
 
 </td>
 </tr>
-<tr>
-<td align="center" colspan="4" style="padding:15px; background:#f8fafc; border-radius: 0 0 12px 12px;">
+</table>
+
+<br/>
 
 **Planned Technology Stack**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,bootstrap"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-0D47A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Python%20%7C%20Django-FF7A00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-MySQL-16A34A?style=flat-square"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-UI%20DESIGN%20IN%20PROGRESS-0D47A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LAUNCH-SOON-FF7A00?style=flat-square"/>
 
 </div>
 
@@ -262,13 +291,13 @@ A modern calculator application featuring a clean interface and calculation hist
 
 <br/><br/>
 
-<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/Followers-3ttt--abhishek-0D47A1?style=for-the-badge&logo=github"/></a>
-<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/github/stars/3ttt-abhishek?label=Stars&style=for-the-badge&color=FF7A00"/></a>
-<a href="https://github.com/3ttt-abhishek"><img src="https://img.shields.io/badge/Repositories-Public-16A34A?style=for-the-badge&logo=github"/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ttt-abhishek&theme=tokyonight" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ttt-abhishek&theme=tokyonight" width="100%"/>
+<img src="https://img.shields.io/github/followers/3ttt-abhishek?style=for-the-badge&label=Followers&color=0D47A1"/>
+<img src="https://img.shields.io/github/stars/3ttt-abhishek?style=for-the-badge&label=Stars&color=FF7A00"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/3ttt-abhishek&query=$.public_repos&label=Repositories&color=16A34A&style=for-the-badge"/>
 
 </div>
 
@@ -278,7 +307,7 @@ A modern calculator application featuring a clean interface and calculation hist
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=3ttt-abhishek&theme=tokyonight&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=0D47A1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=3ttt-abhishek&theme=tokyonight&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=0D47A1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="65%"/>
 
 <br/><br/>
 
